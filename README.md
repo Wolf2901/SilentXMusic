@@ -35,7 +35,7 @@ For more information on the technologies that power the 𝓢𝓲𝓵𝓮𝓷𝓽
 ### Before deploying 𝓢𝓲𝓵𝓮𝓷𝓽 𝓧 𝓜𝓾𝓼𝓲𝓬  , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with 𝓢𝓲𝓵𝓮𝓷𝓽 𝓧 𝓜𝓾𝓼𝓲𝓬  you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+
 > If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/Total_masti)
 
 
@@ -78,7 +78,6 @@ For more information on the technologies that power the 𝓢𝓲𝓵𝓮𝓷𝓽
 
 <h3 align="center">
 
-> How to Deploy To Heroku? [Watch Tutorial](https://www.youtube.com/embed/NPTk-awGalY)
 
 > Click on buttons below to expand and  detailed explanation process. !
     
@@ -115,7 +114,6 @@ For more information on the technologies that power the 𝓢𝓲𝓵𝓮𝓷𝓽
 
 ## 🖇 VPS Deployment
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
@@ -131,7 +129,7 @@ $ cd SilentXMusic
 $ pip3 install -U -r requirements.txt
 $ cp sample.env .env
 $ vi .env (Edit .env with your values or you can simple copy a config from here and paste it to your notepad, then edit and paste there. && Press I button on keyboard to start editing. && Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.)
-$ bash setup / sudo bash start
+$ bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
@@ -140,10 +138,6 @@ $ bash setup / sudo bash start
 $ bash start
 ```
 
-> Not Getting VPS Method? [Watch Tutorial](https://telegram.me/TheYukki/2275)
-
-
-<img src="https://telegra.ph/file/9b0455dae14d5639f936d.mp4" align="center">
 
 
 
@@ -162,7 +156,7 @@ If you want to say **thank you** or/and support active development of Silent X M
 </p>
 
 <p align="center">
-<a href="https://telegram.me/Silent_Smile_04"><img src="https://img.shields.io/badge/%20Silent-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Silent_Smile_04"><img src="https://img.shields.io/badge/%20Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
